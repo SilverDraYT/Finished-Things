@@ -49,6 +49,6 @@ while True:
 
 
 
-
+#Negative dont work?
 #Finished, but things can change
 #Intentar meterle mas cosas(Si no funciona no hay ningun problema)
