@@ -57,6 +57,10 @@ while x==0:
 
 
 
+<<<<<<< HEAD
 #Hay que hacer que el ans se actualice
+=======
+#Negative dont work?
+>>>>>>> 0499a9d87c8037913d5d69689bfae2c204d065dd
 #Finished, but things can change
 #Intentar meterle mas cosas(Si no funciona no hay ningun problema)
