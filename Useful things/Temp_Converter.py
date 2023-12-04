@@ -39,11 +39,10 @@ while x==0:
             print(ans)
             break
 
-
         if conversion==('ans'):
             print(ans)
 
-        print(ans)
+                    
     except:
         print('Try another number')
         
