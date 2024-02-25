@@ -10,7 +10,7 @@ while True:
         if str(smallest) >=str(lel):
                  smallest=lel
     except:
-        print('wrong input')
+        print('Wrong input \nRemember to write "done" when finished')
         continue
 
 print('The largest number is',largest)
