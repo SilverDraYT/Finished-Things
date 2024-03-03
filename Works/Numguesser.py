@@ -1,9 +1,5 @@
 import random
 while True:
-   
-
-
-
     num=random.randint(1,10)
     #If there is not int() guess is a string and then it doesn't work   
     try: 
